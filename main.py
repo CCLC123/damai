@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 
 TZ = pytz.timezone("Asia/Shanghai")
 RUN_WINDOW_START = 9
-RUN_WINDOW_END = 20
+RUN_WINDOW_END = 23
 POLL_SWITCH_DATE = "2026-07-20"
 POLL_END_DATE = "2026-07-31"
 
